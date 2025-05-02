@@ -44,9 +44,10 @@ MIT License
 
 ---
 
-## 🖼️ Архітектура | Flow  
-_Add the same diagram or screenshot here._
-
+## 🖼️ Архітектура | Flow
+<p align="center">
+  <img src="./1000 leads.png" alt="Google Sheets → GPT-4 → Gmail flow" width="700"/>
+</p>
 ---
 
 ## 🚀 Quick start | Швидкий старт  
