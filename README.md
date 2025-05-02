@@ -1,4 +1,4 @@
-# ai-lead-scraper · Сценарій Make.com (1000 лідів) 📈
+# Make.com blueprint → enrich leads with GPT-4 & push to CRM | No-code automation
 
 | 🇺🇦 | 🇬🇧 |
 | --- | --- |
